@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+
+button {
+    display: inline;
+    margin: 0px;
+    padding: 0px;
+    background-color: olive;
+    height: 1rem;
+    width: 1rem;
+    border: none;
+}
